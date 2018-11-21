@@ -57,7 +57,7 @@
     display: none;
   }
   
-  #navbar a.menu-icon {
+  .menu-icon {
     display: inline-block;
 }
 }
