@@ -63,6 +63,7 @@
   
   .menu-icon {
     display: inline-block;
+    float: left;
 }
 
   #logo {
