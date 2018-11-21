@@ -53,11 +53,11 @@
 }
 
 @media screen and (max-width: 700px) {
-  #navbar {
+  #navbar a {
     display: none;
   }
   
-  .menu-icon {
+  #navbar a.menu-icon {
     display: inline-block;
 }
 }
