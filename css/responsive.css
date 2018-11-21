@@ -36,7 +36,7 @@
   }
   
   .col-3 p {
-    order: 1;
+    column-count: 1;
   }
   
   .col-1, .col-2, .col-3 {
