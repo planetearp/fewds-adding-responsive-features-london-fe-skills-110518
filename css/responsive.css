@@ -57,7 +57,7 @@
     display: none;
   }
   
-  #navbar.menu-icon {
+  #navbar nav a.menu-icon {
     displai: inline-block;
   }
   
