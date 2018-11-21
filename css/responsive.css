@@ -63,14 +63,13 @@
   
   .menu-icon {
     display: inline-block;
-    float: left;
 }
 
   #logo {
     display: none;
   }
   
-  #social {
+  div #social {
     position: absolute;
     top: 5px;
   }
