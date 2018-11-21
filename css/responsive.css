@@ -53,7 +53,7 @@
 }
 
 @media screen and (max-width: 700px) {
-  #navbar {
+  #navbar a {
     display: none;
   }
   
