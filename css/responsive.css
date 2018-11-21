@@ -69,5 +69,10 @@
   #logo {
     display: none;
   }
+  
+  #social {
+    position: absolute;
+    top: 5px;
+  }
 }
 
