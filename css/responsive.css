@@ -22,5 +22,20 @@
   
   #logo h2 {
     font-size: 2.2em;
+  }
+  #social {
+    position: absolute;
+    top: 72px;
+  }
+  
 }
 
+@media screen and (max-width: 750px) {
+  #navbar nav a {
+    font-size: 0.9em;
+  }
+  
+  .col-3 p {
+    count: 1;
+  }
+}
