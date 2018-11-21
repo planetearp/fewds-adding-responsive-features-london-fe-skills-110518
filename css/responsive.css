@@ -69,7 +69,7 @@
     display: none;
   }
   
-  div #social {
+  body div #social {
     position: absolute;
     top: 5px;
   }
