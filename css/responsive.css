@@ -75,6 +75,8 @@
     z-index: 10;
   }
   
-  #social a 
+  #social a {
+    display: inline-block;
+  }
 }
 
