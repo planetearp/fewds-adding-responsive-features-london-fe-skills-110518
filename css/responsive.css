@@ -58,7 +58,7 @@
   }
   
   .menu-icon {
-  display: block;
+  display: inline-block;
 }
 }
 
